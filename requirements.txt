@@ -1,0 +1,20 @@
+# Web & Microservices
+fastapi
+uvicorn
+httpx
+
+# Dashboard
+streamlit
+plotly
+
+# Data & ML
+pandas
+numpy
+scikit-learn
+networkx
+
+# Observability (OpenTelemetry)
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-otlp

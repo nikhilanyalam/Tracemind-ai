@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac OS
+.DS_Store
+
+# IDEs
+.vscode/
+
+# OpenTelemetry Local Storage
+/tmp/tempo/
